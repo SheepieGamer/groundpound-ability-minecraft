@@ -1,0 +1,4 @@
+name: groundpound-ability
+version: '${project.version}'
+main: me.sheepie.groundpoundability.Groundpound_ability
+api-version: '1.20'
