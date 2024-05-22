@@ -1,4 +1,7 @@
-name: groundpound-ability
-version: '${project.version}'
+name: GroundpoundAbility
+version: 1.0
 main: me.sheepie.groundpoundability.Groundpound_ability
-api-version: '1.20'
+api_version: 1.20
+commands:
+  groundpound:
+    description: Executes a ground pound.
